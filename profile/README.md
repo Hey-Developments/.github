@@ -1,6 +1,6 @@
 <div align="center">
 
-![Logo](./StarReachLogo.png)
+![Logo](./StarReachNewLogo.png)
 _Hello world!_
 
 </div>
